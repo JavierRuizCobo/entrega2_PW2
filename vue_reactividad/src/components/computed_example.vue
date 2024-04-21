@@ -1,5 +1,5 @@
 <template>
-  <h1>Ejemplo con computed</h1>
+  <h1>Carrito de compras con computed</h1>
   <div>
     <h2>Carrito de compras</h2>
     <ul>
