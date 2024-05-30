@@ -19,7 +19,7 @@ La función reactive se usa cuando quieras una colección de valores y deba ser 
 
 Watch observa cambios en los datos y ejecutan una función de devolución de llamada cuando esos datos cambian. Se pueden usar los watchers para realizar tareas asíncronas o realizar acciones más complejas en respuesta a cambios en los datos
 
-[Ejemplo](vue_reactividad/src/components/watch_example.vue) <br>
+[Ejemplo](vue_reactividad/src/components/watch_exxample.vue) <br>
 
 ## Computed
 
